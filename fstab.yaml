@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/slamech/commerce-cs-pmm/
+    type: markup
+
+folders:
+  /products/: /products/default
